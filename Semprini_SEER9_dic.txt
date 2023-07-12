@@ -1,0 +1,28 @@
+[System]
+Database name=Incidence - SEER 18 Regs Custom Data (with additional treatment fields), Nov 2018 Sub (1975-2016 varying) - Linked To County Attributes - Total U.S., 1969-2017 Counties
+
+[Session Options]
+Type=Case Listing
+
+[Variables]
+Var1Name=SEER historic stage A (1973-2015)
+Var1DisplayType=Formatted
+Var2Name=Year of diagnosis
+Var2DisplayType=Formatted
+Var3Name=State-county
+Var3DisplayType=Formatted
+Var4Name=Sex
+Var4DisplayType=Formatted
+Var5Name=Age recode with single ages and 85+
+Var5DisplayType=Formatted
+Var6Name=Race and origin recode (NHW, NHB, NHAIAN, NHAPI, Hispanic)
+Var6DisplayType=Formatted
+Var7Name=Rural-Urban Continuum Code 1974
+Var7DisplayType=Formatted
+Var8Name=Rural-Urban Continuum Code 1983
+Var8DisplayType=Formatted
+Var9Name=Rural-Urban Continuum Code 1993
+Var9DisplayType=Formatted
+Var10Name=Rural-Urban Continuum Code 2003
+Var10DisplayType=Formatted
+
